@@ -1,0 +1,16 @@
+/* 
+Only needed if you wish to Override Bootstrap classes
+*/
+.product {
+  margin: 0;
+  overflow: auto;
+}
+
+.product__price {
+  display: inline-block;
+  line-height: 34px;
+}
+
+.product__button-wrap {
+  float: right;
+}
